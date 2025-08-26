@@ -30,3 +30,4 @@ C:\Users\itripath\Desktop\MyApps\WeatherApp\obj\Debug\net9.0\refint\WeatherApp.d
 C:\Users\itripath\Desktop\MyApps\WeatherApp\obj\Debug\net9.0\WeatherApp.pdb
 C:\Users\itripath\Desktop\MyApps\WeatherApp\obj\Debug\net9.0\WeatherApp.genruntimeconfig.cache
 C:\Users\itripath\Desktop\MyApps\WeatherApp\obj\Debug\net9.0\ref\WeatherApp.dll
+C:\Users\itripath\Desktop\MyApps\WeatherApp\obj\Debug\net9.0\WeatherApp.sourcelink.json
